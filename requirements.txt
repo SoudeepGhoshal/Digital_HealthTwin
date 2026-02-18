@@ -1,0 +1,9 @@
+flask
+opencv-python
+pytesseract
+gunicorn
+numpy
+tensorflow
+pandas
+scikit-learn
+python-dotenv
